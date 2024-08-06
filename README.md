@@ -12,7 +12,6 @@
 <br>
 
 
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
 
 
 
