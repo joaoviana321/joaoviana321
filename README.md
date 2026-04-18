@@ -1,36 +1,44 @@
-# João Viana
-**MSc Computer Science · FCT NOVA · Portimão, Portugal**
+# Hi, I'm João Viana 👋
 
-XR developer and CS graduate. I build things in Unity/C# — from game systems to VR prototypes for Parkinson's therapy. Published at IEEE VR 2025 and ICTH 2025. Open to software development roles where I can learn fast and ship real things.
+**MSc Computer Science · FCT NOVA · Odemira, Portugal**
 
----
+Software developer with a background in Unity/C# and XR. My dissertation explored AR→VR immersion for Parkinson's therapy — and led to two published papers at IEEE VR 2025 and ICTH 2025. Currently looking for my first full-time dev role where I can keep learning and ship real things.
 
-### Tech stack
-
-![C#](https://img.shields.io/badge/C%23-main-239120?style=flat&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Meta Quest](https://img.shields.io/badge/Meta_Quest-0467DF?style=flat&logo=meta&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-main-9b8aff?style=flat-square)
+![Unity](https://img.shields.io/badge/Unity-3ecf8e?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-378add?style=flat-square)
+![AR/VR](https://img.shields.io/badge/AR%2FVR%20%C2%B7%20Meta%20Quest-e8913a?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile%20%C2%B7%20Git-888780?style=flat-square)
 
 ---
 
-### Publications
+## 📊 Activity
 
-- **Exploring the Virtual Continuum to Tackle Parkinson's Disease: AR vs VR in Therapeutic Gaming**  
-  IEEE VR 2025 · [DOI](https://doi.org/10.1109/VRW66409.2025.00406)
-
-- **From AR to VR: Designing Personalized Immersive Therapies for Parkinson's Disease**  
-  ICTH 2025 · [DOI](https://doi.org/10.1016/j.procs.2025.10.219)
+| Contributions (all time) | Longest streak | Publications |
+|:---:|:---:|:---:|
+| 460 | 7 days | 2 |
 
 ---
 
-### Stats
+## 💻 Top languages
 
-<p>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=joaoviana321&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoviana321&theme=gruvbox&hide_border=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default&langs_count=4)
+
+> Replace `YOUR_USERNAME` with your actual GitHub handle to activate this widget.
+
+---
+
+## 📄 Publications
+
+> **Exploring the Virtual Continuum to Tackle Parkinson's Disease: AR vs VR in Therapeutic Gaming**
+> IEEE VR 2025 · [DOI](https://doi.org/10.1109/VRW66409.2025.00406)
+
+> **From AR to VR: Designing Personalized Immersive Therapies for Parkinson's Disease**
+> ICTH 2025 · [DOI](https://doi.org/10.1016/j.procs.2025.10.219)
+
+---
+
+## 🔗 Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joao--viana-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joao-viana-556551399/)
+[![Email](https://img.shields.io/badge/Email-jmdviana135@gmail.com-888780?style=flat-square&logo=gmail)](mailto:jmdviana135@gmail.com)
