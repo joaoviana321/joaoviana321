@@ -12,17 +12,13 @@ Software developer with a background in Unity/C# and XR. My dissertation explore
 
 ---
 
-## 📊 Activity
 
-| Contributions (all time) | Longest streak | Publications |
-|:---:|:---:|:---:|
-| 460 | 7 days | 2 |
 
 ---
 
 ## 💻 Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoviana321&layout=compact&hide_border=true&theme=default&langs_count=4)
 
 > Replace `YOUR_USERNAME` with your actual GitHub handle to activate this widget.
 
