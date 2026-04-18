@@ -12,15 +12,16 @@ Software developer with a background in Unity/C# and XR. My dissertation explore
 
 ---
 
+## 💻 Languages & tools
 
-
----
-
-## 💻 Top languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoviana321&layout=compact&hide_border=true&theme=default&langs_count=4)
-
-> Replace `YOUR_USERNAME` with your actual GitHub handle to activate this widget.
+![C#](https://img.shields.io/badge/C%23-9b8aff?style=flat-square)
+![Java](https://img.shields.io/badge/Java-e8913a?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0c030?style=flat-square)
+![Unity](https://img.shields.io/badge/Unity-3ecf8e?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-378add?style=flat-square)
+![React Native](https://img.shields.io/badge/React%20Native-378add?style=flat-square)
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-e8913a?style=flat-square)
+![Git](https://img.shields.io/badge/Git-888780?style=flat-square)
 
 ---
 
